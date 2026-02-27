@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Lecture7/Lecture7.csproj" />
+  <Project Path="TaskLibarary/TaskLibarary.csproj" />
+</Solution>
